@@ -14,7 +14,7 @@ else:
     print("Invalid time")
 
 
-Q2
+# Q2
 n= int(input("Input: "))
 count=0
 if n>0 and n<=15:
